@@ -1,5 +1,10 @@
 # cute
+
 Java based IDE created for senior project many moons ago. Uploading this to serve mainly as a reminder to how far I've come and to be nicer to individuals who are still wet behind the ears so to speak.
+
+## Why the name?
+
+When showing an initial concept of this idea to my advisor he looked things over and responded with "That's cute". I was none too thrilled with this response but he encouraged me to continue nonetheless. And so, if only to spite him, I named the project `cute`.
 
 ## Goals
 
