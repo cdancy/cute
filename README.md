@@ -21,11 +21,13 @@ Run the [Main.java](https://github.com/cdancy/cute/blob/master/src/main/java/mai
 
 ### Project Bindings
 * Close a Project Tab == Ctrl + Q
+* Shift to next Project Tab == Shift + Tab
 
 ### File Bindings
 * Open a new File Tab == Ctrl + T
-* Close a File Tab == Ctrl + W
 * Save a File Tab == Ctrl + S
+* Close a File Tab == Ctrl + W
+* Shift to next File Tab == Ctrl + Tab
 
 ### Global Buttons
 
